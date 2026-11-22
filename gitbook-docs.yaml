@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: 내 책
+  structure:
+    - type: space
+      key: my-book
+      title: 내 책
+      path: book
+      default: true
+      content:
+        directory: ./book
